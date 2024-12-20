@@ -7,6 +7,7 @@
 - Email: sir_lemus@hotmail.com   - Linkedin: https://www.linkedin.com/in/marco-trejo-47131b3a/
 - Web: https://marcotrejolemus.github.io/marco-trejo/   - StackOverFlow: https://stackoverflow.com/users/5001834/marco-trejo
 - MS Learn: https://learn.microsoft.com/en-us/users/marcotrejo-8097/
+- Certifications Badges: https://www.credly.com/users/marco-antonio-trejo
 - "In a deep ocean, we always can find a way to keep going and move forward to survive."
   Marco Trejo.
 <!---
