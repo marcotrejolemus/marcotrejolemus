@@ -8,7 +8,8 @@
 - Web: https://marcotrejolemus.github.io/marco-trejo/   - StackOverFlow: https://stackoverflow.com/users/5001834/marco-trejo
 - MS Learn: https://learn.microsoft.com/en-us/users/marcotrejo-8097/
 - Certifications Badges: https://www.credly.com/users/marco-antonio-trejo
-- "In a deep ocean, we always can find a way to keep going and move forward to survive."
+- Linux Foundation: https://forum.linuxfoundation.org/profile/197398/marcoatl
+- "In a deep ocean, we can always find a way to keep going and move forward to survive." 
   Marco Trejo.
 <!---
 marcotrejolemus/marcotrejolemus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
