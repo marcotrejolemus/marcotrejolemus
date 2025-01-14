@@ -11,7 +11,7 @@
 - Credly Badges: https://www.credly.com/users/marco-antonio-trejo
 - "In a deep ocean, we can always find a way to keep going and move forward to survive." 
   Marco Trejo.
-  - #Tech Stack:
+# Tech Stack:
 
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS100.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS102.png)
