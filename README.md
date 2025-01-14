@@ -29,7 +29,7 @@
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/MGCL3.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/snowflake.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/mongoDB.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/python_bgd.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/python_bd.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/power-bi-1.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-2.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-logic.svg)
