@@ -31,9 +31,9 @@
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/mongoDB.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/Python.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/power-bi-1.svg)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-call-m.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-2.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-logic.svg)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/az-fundamentals.svg)
 <!---
 marcotrejolemus/marcotrejolemus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
