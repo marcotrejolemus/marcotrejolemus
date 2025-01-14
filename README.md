@@ -14,6 +14,10 @@
   Marco Trejo.
 # Tech Stack:
 
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/power-bi-1.svg)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-2.svg)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-logic.svg)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/az-fundamentals.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS100.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS102.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS108.png)
@@ -30,10 +34,6 @@
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/snowflake.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/mongoDB.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/python_bd.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/power-bi-1.svg)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-2.svg)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-logic.svg)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/az-fundamentals.svg)
 <!---
 marcotrejolemus/marcotrejolemus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
