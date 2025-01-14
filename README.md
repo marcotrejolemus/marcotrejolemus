@@ -11,7 +11,16 @@
 - Credly Badges: https://www.credly.com/users/marco-antonio-trejo
 - "In a deep ocean, we can always find a way to keep going and move forward to survive." 
   Marco Trejo.
-  
+  - #Tech Stack:
+![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/Badge-Conversor.png)
+![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/XSSE.png)
+![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/PyTorch.png)
+![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/OWASPTOP.png)
+![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/EDCAI.png)
+![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/DSSFT.png)
+![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/CybersecurityEss.png)
+![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/CAPC.png)
+![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/QUANTUMC.png)
 <!---
 marcotrejolemus/marcotrejolemus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
