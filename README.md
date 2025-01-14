@@ -9,11 +9,6 @@
 - MS Learn: https://learn.microsoft.com/en-us/users/marcotrejo-8097/ W3Schools: https://www.w3profile.com/marcotrejolemus
 - ORCID: https://orcid.org/0009-0000-6599-0533  - Linux Foundation: https://forum.linuxfoundation.org/profile/197398/marcoatl
 - Credly Badges: https://www.credly.com/users/marco-antonio-trejo
-
-- #Tech Stack:
-![Sample Image](https://github.com/marcotrejolemus/portafolio/blob/main/img/Badge-Conversor.png)
-
-
 - "In a deep ocean, we can always find a way to keep going and move forward to survive." 
   Marco Trejo.
   
