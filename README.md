@@ -12,15 +12,17 @@
 - "In a deep ocean, we can always find a way to keep going and move forward to survive." 
   Marco Trejo.
   - #Tech Stack:
-![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/Badge-Conversor.png)
-![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/XSSE.png)
-![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/PyTorch.png)
-![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/OWASPTOP.png)
-![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/CybersecurityEss.png)
-![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/CAPC.png)
-![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/QUANTUMC.png)
-![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/img/DSSFT.png)
-![JavaApps](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS112.png)
+
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS100.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS102.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS108.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS112.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS116.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS121.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS1010.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/Certiprof_CAPC.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/Certiprof_Learner.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/ISC2Candidate.png)
 <!---
 marcotrejolemus/marcotrejolemus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
