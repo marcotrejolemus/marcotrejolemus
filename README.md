@@ -13,9 +13,9 @@
 - "In a deep ocean, we can always find a way to keep going and move forward to survive." 
   Marco Trejo.
 # Tech Stack:
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge%20literalura.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/Decodificador%20de%20texto.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/Badge-Conversor.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge-literalura.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge-decodificador.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge-conversorMoneda.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/power-bi-1.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-2.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-logic.svg)
