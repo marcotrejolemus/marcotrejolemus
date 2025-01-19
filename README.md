@@ -35,13 +35,7 @@
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS1010.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/Certiprof_CAPC.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/Certiprof_Learner.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/ISC2Candidate.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/GCC.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/SFC.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/MGCL3.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/snowflake.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/mongoDB.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/python_bd.png)
+
 <!---
 marcotrejolemus/marcotrejolemus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
