@@ -20,8 +20,8 @@
 ## 💫 Tech Badges:
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge-springFramework.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge-literalura.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge-decodificador.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge-conversorMoneda.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge-decoder.png)
+![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/badge-currency.png)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/power-bi-1.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-2.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-logic.svg)
