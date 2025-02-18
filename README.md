@@ -7,9 +7,10 @@
  ## 🌐 Socials:
 - Email: sir_lemus@hotmail.com   - Linkedin: https://www.linkedin.com/in/marco-trejo-47131b3a/    Dev.to: https://dev.to/marcoatl
 - Web: https://marcotrejolemus.github.io/marco-trejo/   - StackOverFlow: https://stackoverflow.com/users/5001834/marco-trejo
-- MS Learn: https://learn.microsoft.com/en-us/users/marcotrejo-8097/ W3Schools: https://www.w3profile.com/marcotrejolemus
-- ORCID: https://orcid.org/0009-0000-6599-0533  - Linux Foundation: https://forum.linuxfoundation.org/profile/197398/marcoatl
-- Hashnode: https://hashnode.com/@marcoatl  - Gravatar: https://gravatar.com/sirlemus - Credly Badges: https://www.credly.com/users/marco-antonio-trejo
+- MS Learn: https://learn.microsoft.com/en-us/users/marcotrejo-8097/ - W3Schools: https://www.w3profile.com/marcotrejolemus
+- ORCID: https://orcid.org/0009-0000-6599-0533  - Linux Foundation: https://forum.linuxfoundation.org/profile/197398/marcoatl - https://openprofile.dev/profile/marcoatl
+- Hashnode: https://hashnode.com/@marcoatl  - Gravatar: https://gravatar.com/sirlemus - Credly Badges: https://www.credly.com/users/marco-antonio-trejo4
+- 
 - "In a deep ocean, we can always find a way to keep going and move forward to survive." 
   Marco Trejo.
 
