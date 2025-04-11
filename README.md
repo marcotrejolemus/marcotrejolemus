@@ -20,16 +20,6 @@
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-2.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/csharp-logic.svg)
 ![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/az-fundamentals.svg)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS100.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS102.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS108.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS112.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS116.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS121.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/LFS1010.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/Certiprof_CAPC.png)
-![Badge](https://github.com/marcotrejolemus/portafolio/blob/main/assets/Certiprof_Learner.png)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marcotrejolemus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marcotrejolemus&theme=dark&hide_border=false)<br/>
