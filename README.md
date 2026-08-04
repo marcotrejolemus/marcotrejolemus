@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any project to learn more about Computer Science in the process..
 - ⚡ 3 Fun facts: I am a curious person, finding a way to learn something new, In college I played in the Basketball team for two years, If I could do anything will be work in my dream job as space data scientist
 
-- "In a deep ocean, we can always find a way to keep going and move forward to survive."
+- "In the deep ocean, we can always find a way to keep going to survive."
 - https://science.nasa.gov/open-science/os101/
   Marco Trejo.
 
