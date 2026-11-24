@@ -1,5 +1,5 @@
 # About me:
-- 👋 Hi, I’m Marco—an eternal learner.
+- 👋 Hi, I’m Marco, an eternal learner.
 - 👀 I’m interested in software development, AI, quantum computing, cloud computing, programming languages, integration solutions, and more.
 - 🌱 I work with: Oracle OTM, Oracle OIC, Java, Python, REST APIs, AWS, Azure, Google Cloud, Snowflake Cloud, etc.
 - 💞️ I’m looking to collaborate on projects that allow me to keep learning more about computer science.
