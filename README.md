@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects that allow me to keep learning more about computer science.
 - ⚡ 3 facts: I’m a curious person who’s always looking to learn something new; I played on my university’s basketball team for two years; and if I could choose any job, I’d love to pursue what I consider my ideal role: a data scientist for outer space—the final frontier.
 
-- [https://science.nasa.gov/open-science/os101/](https://science.nasa.gov/open-science/training/)
+- [https://science.nasa.gov/open-science/training/](https://science.nasa.gov/open-science/training/)
 - Marco Trejo.
 
   # 💻 Tech Stack:
