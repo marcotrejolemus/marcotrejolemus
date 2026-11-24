@@ -1,12 +1,11 @@
 # About me:
-- 👋 Hi, I’m Marco eternal learner.
-- 👀 I like Software Development, AI, Cloud computing, Programming languages, Integration Solutions...
-- 🌱 I like: Java, Python, REST API, AWS, Azure, GC, Snowflake Cloud...
-- 💞️ I’m looking to collaborate on any project to learn more about Computer Science in the process..
-- ⚡ 3 Fun facts: I am a curious person, finding a way to learn something new, In college I played in the Basketball team for two years, If I could do anything will be work in my dream job as space data scientist
+- 👋 Hi, I’m Marco—an eternal learner.
+- 👀 I’m interested in software development, AI, quantum computing, cloud computing, programming languages, integration solutions, and more.
+- 🌱 I work with: Oracle OTM, Oracle OIC, Java, Python, REST APIs, AWS, Azure, Google Cloud, Snowflake Cloud, etc.
+- 💞️ I’m looking to collaborate on projects that allow me to keep learning more about computer science.
+- ⚡ 3 facts: I’m a curious person who’s always looking to learn something new; I played on my university’s basketball team for two years; and if I could choose any job, I’d love to pursue what I consider my ideal role: a data scientist for outer space—the final frontier.
 
-- "In the deep ocean, we can always find a way to keep going to survive."
-- https://science.nasa.gov/open-science/os101/
+- [https://science.nasa.gov/open-science/os101/](https://science.nasa.gov/open-science/training/)
   Marco Trejo.
 
   # 💻 Tech Stack:
